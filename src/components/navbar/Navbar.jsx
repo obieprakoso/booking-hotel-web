@@ -1,4 +1,4 @@
-import React from "./navbar.css";
+import "./navbar.css";
 
 const Navbar = () => {
   return (
